@@ -185,6 +185,7 @@
  <td><img src="pics/jtmidres.png" /></td>
  </tr>
  <tr>
+ <td><img src="pics/jtcop.png" /></td>
  <td><img src="pics/jtwc.png" /></td>
  <td><img src="pics/jtflstory.png" /></td>
  </tr>
@@ -286,6 +287,7 @@
  </tr>
  <tr>
  <td><img src="pics/doubledragoniii.png" /></td>
+ <td><img src="pics/combatribes.png" /></td>
  </tr>
  
  
@@ -297,6 +299,10 @@
  <td><img src="pics/gaplus.png" /></td> 
  <td><img src="pics/gauntlet.png" /></td>  
  <td><img src="pics/system1.png" /></td> 
+ </tr>
+
+  <tr>
+ <td><img src="pics/defender.png" /></td> 
  </tr>
  
  
