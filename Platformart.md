@@ -191,6 +191,7 @@
  </tr>
  <td><img src="pics/jtkiwi.png" /></td>
  <td><img src="pics/jt1942.png" /></td>
+ <td><img src="pics/jtthundr.png" /></td>
  </tr>
  
 <tbody><tr><th colspan="3">Platform images for Arcade Cores by <a href="https://patreon.com/nullobject" rel="nofollow">nullobject</a>.</th></tr>
